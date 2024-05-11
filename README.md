@@ -4,7 +4,7 @@ I am currently in my fifth semester of studying Business Information Systems. I 
 
 # Skills:
 
-Java | Python | SQL | Linux | Backend Webdevelopment | BPMN | Agile Softwareentwicklung (SAFe) | Visual Studio Code | Eclipse | Apache Hadoop | GitHub | R | Kotlin | Android Studio | Driver License
+Java, Python, SQL, Linux, Backend Webdevelopment, BPMN, Agile Softwareentwicklung (SAFe), Visual Studio Code, Eclipse, Apache Hadoop, GitHub, R, Kotlin, Android Studio, Driver License
 
 # Education:
 
