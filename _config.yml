@@ -1,4 +1,12 @@
+#GitHub Pages is handling the deployment automatically
+#based on this _config.yml file.
+#No deployment workflow is needed from my part.
+
+#The title that will be displayed top-left
 title: Nicolas Jobstvogt
+#Profile picture that will be displayed under the title
 logo: /assets/img/profile_picture.png
+#Disable showing download link for the page
 show_downloads: false
+#The theme to be used
 theme: jekyll-theme-minimal 
